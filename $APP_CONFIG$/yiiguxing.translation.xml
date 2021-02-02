@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="415" />
+    <option name="newTranslationDialogX" value="520" />
+    <option name="newTranslationDialogY" value="218" />
+    <histories>
+      <item value="Returns whether the &quot;no entries found&quot; message should be displayed" />
+      <item value="Whether to show the search-in-progress indicator" />
+      <item value="Whether or not the search field should be cleared after the dropdown menu is closed. Useful for server-side filtering. See" />
+      <item value="Disables initial focusing of the input field" />
+      <item value="Represents an embedded template that can be used to instantiate embedded views. To instantiate embedded views based on a template, use the ViewContainerRef method createEmbeddedView().&#10;Access a TemplateRef instance by placing a directive on an &lt;ng-template&gt; element (or directive prefixed with *). The TemplateRef for the embedded view is injected into the constructor of the directive, using the TemplateRef token.&#10;You can also use a Query to find a TemplateRef associated with a component or a directive." />
+      <item value="C" />
+      <item value="Evaluates JavaScript code and executes it." />
+      <item value="Data View" />
+      <item value="Params:&#10;x – A String value that contains valid JavaScript code." />
+      <item value="Represents an embedded template that can be used to instantiate embedded views. To instantiate embedded views based on a template, use the ViewContainerRef method createEmbeddedView().&#10;Access a TemplateRef instance by placing a directive on an &lt;ng-template&gt; element (or directive prefixed with *). The TemplateRef for the embedded view is injected into the constructor of the directive, using the TemplateRef token.&#10;You can also use a Query to find a TemplateRef associated with a component or a directive.&#10;@publicApi&#10;&#10;See also:&#10;`ViewContainerRef`, [Navigate the Component Tree with DI](guide/dependency-injection-navtree)" />
+      <item value="Template Ref" />
+      <item value="Exclude from T those types that are assignable to U" />
+      <item value="Exclude" />
+      <item value="Extract from T those types that are assignable to U" />
+      <item value="Omit" />
+      <item value="Construct a type with the properties of T except for those in type K." />
+      <item value="YEARField number for get and set indicating the year. This is a calendar-specific value; see subclass documentation." />
+      <item value="YEAR" />
+      <item value="Field number for get and set indicating the month. This is a calendar-specific value. The first month of the year in the Gregorian and Julian calendars is JANUARY which is 0; the last depends on the number of months in a year.&#10;See Also" />
+      <item value="A built-in dependency injection token that is used to configure the root injector for bootstrapping." />
+      <item value="error TS6046: Argument for '--lib' option must be: 'es5'," />
+      <item value="someDetermines whether the specified callback function returns true for any element of an array." />
+      <item value="some" />
+      <item value="Determines whether all the members of an array satisfy the specified test." />
+      <item value="and have 4 and 15 different commits each, respectively.&#10;  (use &quot;git pull&quot; to merge the remote branch into yours)" />
+      <item value="It is not recommended to publish Ivy libraries to NPM repositories" />
+      <item value="Run Commands using IDE Press ⌘⏎ to run the highlighted action using the relevant IDE feature instead of the terminal. Press ⇧⌘⏎ for debug. Press Enter to run the command in the terminal as usual. You can turn this behavior on/off in Preferences | Tools | TerminalRun Commands using IDE Press ⌘⏎ to run the highlighted action using the relevant IDE feature instead of the terminal. Press ⇧⌘⏎ for debug. Press Enter to run the command in the terminal as usual. You can turn this behavior on/off in Preferences | Tools | Terminal" />
+      <item value=" No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK" />
+      <item value="ule de reporting pour les projet" />
+      <item value="Set internal representation of row height from the user-provided value" />
+      <item value="Property '0' is missing in type" />
+      <item value="any provider defined in the child component tree of the current component (e.g. * `@ViewChild(SomeService) someService: SomeService`)" />
+      <item value="any provider defined in the child component t" />
+      <item value="unascribed" />
+      <item value="* Make all properties in T optional" />
+      <item value="* Calls the specified callback function for all the elements in an array, in descending order. The return value of the callback function is the accumulated result, and is provided as an argument in the next call to the callback function." />
+      <item value="Inserts new elements at the start of an array." />
+      <item value="* Removes the last element from an array and returns it." />
+      <item value="/// ECMAScript Array API (specially handled by compiler)" />
+      <item value="/** Converts all alphabetic characters to lowercase, taking into account the host environment's current locale. */" />
+      <item value="/** Converts all the alphabetic characters in a string to lowercase. */" />
+      <item value="* Calls the function, substituting the specified object for the this value of the function, and the specified array for the arguments of the function." />
+      <item value="* Computes a new string in which certain characters have been replaced by a hexadecimal escape sequence." />
+      <item value="* Determines whether a supplied number is finite." />
+      <item value="Number of days until the cookies expires or an actual `Date`" />
+      <item value="Asynchronously verify given token using a secret or a public key to get a decoded token * token - JWT string to verify * secretOrPublicKey - A string or buffer containing either the secret for HMAC algorithms, * or the PEM encoded public key for RSA and ECDSA. If jwt.verify is called asynchronous, * secretOrPublicKey can be a function that should fetch the secret or public key * [options] - Options for the verification * callback - Callback to get the decoded token on" />
+      <item value="Requires the string value to only contain a-z, A-Z, 0-9, and underscore _." />
+      <item value="Determines whether the specified callback function returns true for any element of an array. * @param callbackfn A function that accepts up to three arguments. The some method calls * the callbackfn function for each element in the array until the callbackfn returns a value * which is coercible to the Boolean value true, or until the end of the array. * @param thisArg An object to which the this keyword can refer in the callbackfn function. * If thisArg is omitted, undefined is used as the this value." />
+      <item value="Determines whether all the members of an array satisfy the specified test. * @param callbackfn A function that accepts up to three arguments. The every method calls * the callbackfn function for each element in the array until the callbackfn returns a value * which is coercible to the Boolean value false, or until the end of the array. * @param thisArg An object to which the this keyword can refer in the callbackfn function. * If thisArg is omitted, undefined is used as the this value." />
+      <item value="An array of DI tokens used to look up `CanLoad()` * handlers, in order to determine if the current user is allowed to * load the component. By default, any user can load." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="23" />
+        <entry key="FRENCH" value="24" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1612280474494" />
+  </component>
+</application>
