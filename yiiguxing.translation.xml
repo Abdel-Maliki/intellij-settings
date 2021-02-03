@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="Creates a reducer function to handle state transitions." />
       <item value="actions" />
       <item value="Returns whether the &quot;no entries found&quot; message should be displayed" />
       <item value="Whether to show the search-in-progress indicator" />
@@ -53,7 +54,6 @@
       <item value="Asynchronously verify given token using a secret or a public key to get a decoded token * token - JWT string to verify * secretOrPublicKey - A string or buffer containing either the secret for HMAC algorithms, * or the PEM encoded public key for RSA and ECDSA. If jwt.verify is called asynchronous, * secretOrPublicKey can be a function that should fetch the secret or public key * [options] - Options for the verification * callback - Callback to get the decoded token on" />
       <item value="Requires the string value to only contain a-z, A-Z, 0-9, and underscore _." />
       <item value="Determines whether the specified callback function returns true for any element of an array. * @param callbackfn A function that accepts up to three arguments. The some method calls * the callbackfn function for each element in the array until the callbackfn returns a value * which is coercible to the Boolean value true, or until the end of the array. * @param thisArg An object to which the this keyword can refer in the callbackfn function. * If thisArg is omitted, undefined is used as the this value." />
-      <item value="Determines whether all the members of an array satisfy the specified test. * @param callbackfn A function that accepts up to three arguments. The every method calls * the callbackfn function for each element in the array until the callbackfn returns a value * which is coercible to the Boolean value false, or until the end of the array. * @param thisArg An object to which the this keyword can refer in the callbackfn function. * If thisArg is omitted, undefined is used as the this value." />
     </histories>
     <option name="languageScores">
       <map>
