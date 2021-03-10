@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="namespace' and 'module' are disallowed(no-namespace)" />
       <item value="will be ignored" />
       <item value="(will be ignored" />
       <item value="matches" />
@@ -53,7 +54,6 @@
       <item value="* Computes a new string in which certain characters have been replaced by a hexadecimal escape sequence." />
       <item value="* Determines whether a supplied number is finite." />
       <item value="Number of days until the cookies expires or an actual `Date`" />
-      <item value="Asynchronously verify given token using a secret or a public key to get a decoded token * token - JWT string to verify * secretOrPublicKey - A string or buffer containing either the secret for HMAC algorithms, * or the PEM encoded public key for RSA and ECDSA. If jwt.verify is called asynchronous, * secretOrPublicKey can be a function that should fetch the secret or public key * [options] - Options for the verification * callback - Callback to get the decoded token on" />
     </histories>
     <option name="languageScores">
       <map>
