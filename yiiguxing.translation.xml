@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="Select one slice of data from the store." />
       <item value="Cancel the previous uncompleted observable(s)." />
       <item value=" only refers to a type, but is being used as a value here" />
       <item value="namespace' and 'module' are disallowed(no-namespace)" />
@@ -53,7 +54,6 @@
       <item value="/** Converts all alphabetic characters to lowercase, taking into account the host environment's current locale. */" />
       <item value="/** Converts all the alphabetic characters in a string to lowercase. */" />
       <item value="* Calls the function, substituting the specified object for the this value of the function, and the specified array for the arguments of the function." />
-      <item value="* Computes a new string in which certain characters have been replaced by a hexadecimal escape sequence." />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615296856475" />
+    <option name="lastTrimTime" value="1615756115765" />
   </component>
 </application>
