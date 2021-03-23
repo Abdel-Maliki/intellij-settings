@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/ECMAScript 6/Change ES6 import " />
-    <ignoreAction name="Other/Convert relative path to absolute" />
-    <ignoreAction name="JavaScript/Other/Replace single-quoted string with double-quoted string" />
-  </component>
-</application>
