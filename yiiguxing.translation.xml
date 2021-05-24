@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="Creates a container object for a light theme to be given to individual component theme mixins. TODO: Remove legacy API and rename `primary` to `config`. Currently it cannot be renamed as it would break existing apps that set the parameter by name" />
+      <item value="Creates a light-themed color configuration from the specified primary, accent and warn palettes." />
       <item value="Select one slice of data from the store." />
       <item value="Cancel the previous uncompleted observable(s)." />
       <item value=" only refers to a type, but is being used as a value here" />
@@ -52,17 +54,15 @@
       <item value="* Removes the last element from an array and returns it." />
       <item value="/// ECMAScript Array API (specially handled by compiler)" />
       <item value="/** Converts all alphabetic characters to lowercase, taking into account the host environment's current locale. */" />
-      <item value="/** Converts all the alphabetic characters in a string to lowercase. */" />
-      <item value="* Calls the function, substituting the specified object for the this value of the function, and the specified array for the arguments of the function." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="23" />
-        <entry key="FRENCH" value="24" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="FRENCH" value="25" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615756115765" />
+    <option name="lastTrimTime" value="1621853380284" />
   </component>
 </application>
