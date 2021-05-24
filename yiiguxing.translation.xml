@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="For slide toggle" />
+      <item value="theme2" />
       <item value="Creates a container object for a light theme to be given to individual component theme mixins. TODO: Remove legacy API and rename `primary` to `config`. Currently it cannot be renamed as it would break existing apps that set the parameter by name" />
       <item value="Creates a light-themed color configuration from the specified primary, accent and warn palettes." />
       <item value="Select one slice of data from the store." />
@@ -52,13 +54,11 @@
       <item value="* Calls the specified callback function for all the elements in an array, in descending order. The return value of the callback function is the accumulated result, and is provided as an argument in the next call to the callback function." />
       <item value="Inserts new elements at the start of an array." />
       <item value="* Removes the last element from an array and returns it." />
-      <item value="/// ECMAScript Array API (specially handled by compiler)" />
-      <item value="/** Converts all alphabetic characters to lowercase, taking into account the host environment's current locale. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="25" />
-        <entry key="FRENCH" value="25" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="FRENCH" value="26" />
       </map>
     </option>
   </component>
