@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="target" />
       <item value="If the order is completely delivered the validation fails, this is not the desired effect" />
       <item value="Transaction silently rolled back because it has been marked as rollback-only" />
       <item value="Translation failed: Unknown error&#10;&#10;&gt;Plugin v3.1.1  &#10;&gt;IntelliJ IDEA 2021.2.1  &#10;&gt;Build #IU-212.5080.55, built on August 24, 2021  &#10;&gt;Runtime version: 11.0.11+9-b1504.16 x86_64  &#10;&gt;VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.  &#10;&gt;OS: macOS 11.5.1&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google Translate :: Translation failed: Unknown error&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:129)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.TranslateService$translate$$inlined$executeOnPooledThread$1.run(Applications.kt:184)&#10;&#9;at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:265)&#10;&#9;at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)&#10;&#9;at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)&#10;&#9;at java.base/java.security.AccessController.doPrivileged(Native Method)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)&#10;&#9;at java.base/java.lang.Thread.run(Thread.java:829)&#10;Caused by: java.net.HttpRetryException: cannot retry due to redirection, in streaming mode&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2713)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2699)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1854)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)&#10;&#9;at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:365)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.readString(HttpRequests.java:415)&#10;&#9;at com.intellij.util.io.HttpRequests$Request.readString(HttpRequests.java:102)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate$lambda-3(AbstractTranslator.kt:90)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:517)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:499)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:88)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:100)&#10;&#9;... 11 more&#10;```&#10;" />
@@ -53,16 +54,15 @@
       <item value="some" />
       <item value="Determines whether all the members of an array satisfy the specified test." />
       <item value="and have 4 and 15 different commits each, respectively.&#10;  (use &quot;git pull&quot; to merge the remote branch into yours)" />
-      <item value="It is not recommended to publish Ivy libraries to NPM repositories" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="27" />
-        <entry key="FRENCH" value="38" />
+        <entry key="FRENCH" value="39" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639499475926" />
+    <option name="lastTrimTime" value="1641807293385" />
   </component>
 </application>
