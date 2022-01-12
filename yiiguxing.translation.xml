@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="415" />
+    <option name="newTranslationDialogX" value="520" />
+    <option name="newTranslationDialogY" value="218" />
+    <histories>
+      <item value="target" />
+      <item value="If the order is completely delivered the validation fails, this is not the desired effect" />
+      <item value="Transaction silently rolled back because it has been marked as rollback-only" />
+      <item value="Translation failed: Unknown error&#10;&#10;&gt;Plugin v3.1.1  &#10;&gt;IntelliJ IDEA 2021.2.1  &#10;&gt;Build #IU-212.5080.55, built on August 24, 2021  &#10;&gt;Runtime version: 11.0.11+9-b1504.16 x86_64  &#10;&gt;VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.  &#10;&gt;OS: macOS 11.5.1&#10;&#10;```&#10;cn.yiiguxing.plugin.translate.trans.TranslateException: Google Translate :: Translation failed: Unknown error&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:129)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.TranslateService$translate$$inlined$executeOnPooledThread$1.run(Applications.kt:184)&#10;&#9;at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:265)&#10;&#9;at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)&#10;&#9;at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)&#10;&#9;at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)&#10;&#9;at java.base/java.security.AccessController.doPrivileged(Native Method)&#10;&#9;at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)&#10;&#9;at java.base/java.lang.Thread.run(Thread.java:829)&#10;Caused by: java.net.HttpRetryException: cannot retry due to redirection, in streaming mode&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2713)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2699)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1854)&#10;&#9;at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)&#10;&#9;at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:365)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestImpl.readString(HttpRequests.java:415)&#10;&#9;at com.intellij.util.io.HttpRequests$Request.readString(HttpRequests.java:102)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate$lambda-3(AbstractTranslator.kt:90)&#10;&#9;at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:517)&#10;&#9;at com.intellij.util.io.HttpRequests.process(HttpRequests.java:499)&#10;&#9;at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.doTranslate(AbstractTranslator.kt:88)&#10;&#9;at cn.yiiguxing.plugin.translate.trans.AbstractTranslator.translate(AbstractTranslator.kt:100)&#10;&#9;... 11 more&#10;```&#10;" />
+      <item value="Unchecked call to 'setTransientBox(C)' as a member of raw type 'com.loga.treasurycore.interfaces.IPayment' " />
+      <item value="Deadlock found when trying to get lock; try restarting transaction" />
+      <item value="The some() method tests whether at least one element in the array passes the test implemented" />
+      <item value="Patches the value of the control" />
+      <item value="When true, mark only this control. When false or not supplied, marks all direct ancestors. Default is false" />
+      <item value="Disables the control. This means the control is exempt from validation checks and excluded from the aggregate value of any parent. Its status is DISABLED.&#10;If the control has children, all children are also disabled." />
+      <item value="The image must have absolute positioning" />
+      <item value="foreground&#10;" />
+      <item value="foreground" />
+      <item value="For slide toggle" />
+      <item value="theme2" />
+      <item value="Creates a container object for a light theme to be given to individual component theme mixins. TODO: Remove legacy API and rename `primary` to `config`. Currently it cannot be renamed as it would break existing apps that set the parameter by name" />
+      <item value="Creates a light-themed color configuration from the specified primary, accent and warn palettes." />
+      <item value="Select one slice of data from the store." />
+      <item value="Cancel the previous uncompleted observable(s)." />
+      <item value=" only refers to a type, but is being used as a value here" />
+      <item value="namespace' and 'module' are disallowed(no-namespace)" />
+      <item value="will be ignored" />
+      <item value="(will be ignored" />
+      <item value="matches" />
+      <item value="    Create the new files at the top level of the current project.&#10;" />
+      <item value="Returns whether the &quot;no entries found&quot; message should be displayed" />
+      <item value="Whether to show the search-in-progress indicator" />
+      <item value="Whether or not the search field should be cleared after the dropdown menu is closed. Useful for server-side filtering. See" />
+      <item value="Disables initial focusing of the input field" />
+      <item value="Represents an embedded template that can be used to instantiate embedded views. To instantiate embedded views based on a template, use the ViewContainerRef method createEmbeddedView().&#10;Access a TemplateRef instance by placing a directive on an &lt;ng-template&gt; element (or directive prefixed with *). The TemplateRef for the embedded view is injected into the constructor of the directive, using the TemplateRef token.&#10;You can also use a Query to find a TemplateRef associated with a component or a directive." />
+      <item value="C" />
+      <item value="Evaluates JavaScript code and executes it." />
+      <item value="Data View" />
+      <item value="Params:&#10;x – A String value that contains valid JavaScript code." />
+      <item value="Represents an embedded template that can be used to instantiate embedded views. To instantiate embedded views based on a template, use the ViewContainerRef method createEmbeddedView().&#10;Access a TemplateRef instance by placing a directive on an &lt;ng-template&gt; element (or directive prefixed with *). The TemplateRef for the embedded view is injected into the constructor of the directive, using the TemplateRef token.&#10;You can also use a Query to find a TemplateRef associated with a component or a directive.&#10;@publicApi&#10;&#10;See also:&#10;`ViewContainerRef`, [Navigate the Component Tree with DI](guide/dependency-injection-navtree)" />
+      <item value="Template Ref" />
+      <item value="Exclude from T those types that are assignable to U" />
+      <item value="Exclude" />
+      <item value="Extract from T those types that are assignable to U" />
+      <item value="Omit" />
+      <item value="Construct a type with the properties of T except for those in type K." />
+      <item value="YEARField number for get and set indicating the year. This is a calendar-specific value; see subclass documentation." />
+      <item value="YEAR" />
+      <item value="Field number for get and set indicating the month. This is a calendar-specific value. The first month of the year in the Gregorian and Julian calendars is JANUARY which is 0; the last depends on the number of months in a year.&#10;See Also" />
+      <item value="A built-in dependency injection token that is used to configure the root injector for bootstrapping." />
+      <item value="error TS6046: Argument for '--lib' option must be: 'es5'," />
+      <item value="someDetermines whether the specified callback function returns true for any element of an array." />
+      <item value="some" />
+      <item value="Determines whether all the members of an array satisfy the specified test." />
+      <item value="and have 4 and 15 different commits each, respectively.&#10;  (use &quot;git pull&quot; to merge the remote branch into yours)" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="27" />
+        <entry key="FRENCH" value="39" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1641807293385" />
+  </component>
+</application>
