@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="fix" />
       <item value="target" />
       <item value="If the order is completely delivered the validation fails, this is not the desired effect" />
       <item value="Transaction silently rolled back because it has been marked as rollback-only" />
@@ -53,16 +54,15 @@
       <item value="someDetermines whether the specified callback function returns true for any element of an array." />
       <item value="some" />
       <item value="Determines whether all the members of an array satisfy the specified test." />
-      <item value="and have 4 and 15 different commits each, respectively.&#10;  (use &quot;git pull&quot; to merge the remote branch into yours)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="27" />
-        <entry key="FRENCH" value="39" />
+        <entry key="FRENCH" value="40" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641807293385" />
+    <option name="lastTrimTime" value="1642772712275" />
   </component>
 </application>
