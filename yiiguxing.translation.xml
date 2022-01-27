@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="NOT, EXISTS, INTERSECTS, UNIQUE" />
       <item value="fix" />
       <item value="target" />
       <item value="If the order is completely delivered the validation fails, this is not the desired effect" />
@@ -53,16 +54,15 @@
       <item value="error TS6046: Argument for '--lib' option must be: 'es5'," />
       <item value="someDetermines whether the specified callback function returns true for any element of an array." />
       <item value="some" />
-      <item value="Determines whether all the members of an array satisfy the specified test." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="27" />
-        <entry key="FRENCH" value="40" />
+        <entry key="FRENCH" value="41" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642772712275" />
+    <option name="lastTrimTime" value="1643298029195" />
   </component>
 </application>
