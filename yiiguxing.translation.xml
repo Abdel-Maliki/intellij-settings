@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="the value &lt;code&gt;0&lt;/code&gt; if the argument Date is equal to&#10;     *          this Date; a value less than &lt;code&gt;0&lt;/code&gt; if this Date&#10;     *          is before the Date argument; and a value greater than&#10;     *      &lt;code&gt;0&lt;/code&gt; if this Date is after the Date argument." />
       <item value="NOT, EXISTS, INTERSECTS, UNIQUE" />
       <item value="fix" />
       <item value="target" />
@@ -53,16 +54,15 @@
       <item value="A built-in dependency injection token that is used to configure the root injector for bootstrapping." />
       <item value="error TS6046: Argument for '--lib' option must be: 'es5'," />
       <item value="someDetermines whether the specified callback function returns true for any element of an array." />
-      <item value="some" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="27" />
-        <entry key="FRENCH" value="41" />
+        <entry key="FRENCH" value="42" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643298029195" />
+    <option name="lastTrimTime" value="1645181197205" />
   </component>
 </application>
