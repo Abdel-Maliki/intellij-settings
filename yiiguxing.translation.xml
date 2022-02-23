@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="An object to which the this keyword can refer in the callbackfn function" />
+      <item value="Determines whether all the members of an array satisfy the specified test." />
       <item value="@param thisArg An object to which the this keyword can refer in the callbackfn function.&#10;     * If thisArg is omitted, undefined is used as the this value" />
       <item value="@Param(&quot;warehouseId&quot;) Long warehouseId" />
       <item value="the value &lt;code&gt;0&lt;/code&gt; if the argument Date is equal to&#10;     *          this Date; a value less than &lt;code&gt;0&lt;/code&gt; if this Date&#10;     *          is before the Date argument; and a value greater than&#10;     *      &lt;code&gt;0&lt;/code&gt; if this Date is after the Date argument." />
@@ -52,13 +54,11 @@
       <item value="Construct a type with the properties of T except for those in type K." />
       <item value="YEARField number for get and set indicating the year. This is a calendar-specific value; see subclass documentation." />
       <item value="YEAR" />
-      <item value="Field number for get and set indicating the month. This is a calendar-specific value. The first month of the year in the Gregorian and Julian calendars is JANUARY which is 0; the last depends on the number of months in a year.&#10;See Also" />
-      <item value="A built-in dependency injection token that is used to configure the root injector for bootstrapping." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="27" />
-        <entry key="FRENCH" value="43" />
+        <entry key="FRENCH" value="45" />
       </map>
     </option>
   </component>
