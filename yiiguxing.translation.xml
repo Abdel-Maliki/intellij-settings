@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="520" />
     <option name="newTranslationDialogY" value="218" />
     <histories>
+      <item value="check if add function is called maximum 3 times" />
+      <item value="behavior" />
       <item value="Inferred type 'K' for type parameter 'K' is not within its bound; should extend 'capture&lt;? extends T&gt;'" />
       <item value="provided predicate or the stream is empty, otherwise {@code false}" />
       <item value="Returns the greatest integer less than or equal to its numeric argument" />
@@ -52,17 +54,15 @@
       <item value="Template Ref" />
       <item value="Exclude from T those types that are assignable to U" />
       <item value="Exclude" />
-      <item value="Extract from T those types that are assignable to U" />
-      <item value="Omit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="27" />
-        <entry key="FRENCH" value="48" />
+        <entry key="FRENCH" value="50" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646927572875" />
+    <option name="lastTrimTime" value="1648832851632" />
   </component>
 </application>
