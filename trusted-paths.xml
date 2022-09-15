@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/dev/loga" />
+        <option value="$USER_HOME$/dev/me/simple-training/java" />
       </list>
     </option>
   </component>
