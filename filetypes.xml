@@ -3,10 +3,13 @@
     <extensionMap>
       <mapping pattern="ddddd" type="AUTO_DETECTED" />
       <mapping pattern="mockito-extensions" type="AUTO_DETECTED" />
+      <mapping ext="mockmaker " type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="properties " type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="mockmakerp" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
